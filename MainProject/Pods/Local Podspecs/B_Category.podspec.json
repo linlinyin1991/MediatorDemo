@@ -1,0 +1,28 @@
+{
+  "name": "B_Category",
+  "version": "0.0.1",
+  "summary": "B_Category is a Category for Mediator and A moudle",
+  "description": "B_Category is a Category for Mediator and A moudle,A_Category is a Category for Mediator and A moudle",
+  "homepage": "https://github.com/linlinyin1991/B_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yin linlin": "linlin.yin@bkjk.com"
+  },
+  "source": {
+    "git": "https://github.com/linlinyin1991/B_Category.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": "UIKit",
+  "source_files": "B_Category/Classes/*.{h,m}",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

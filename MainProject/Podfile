@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'MainProject' do
+  use_frameworks!
+  pod 'CTMediator'
+  pod 'A_Category', :path => '../LocalRepo/A_Category'
+  pod 'B_Category', :path => '../LocalRepo/B_Category'
+  pod 'A_Moudle', :path => '../LocalRepo/A_Moudle'
+#  pod 'B_Moudle', :path => '../LocalRepo/B_Moudle'
+end

@@ -1,0 +1,35 @@
+PODS:
+  - A_Category (0.0.1):
+    - CTMediator
+  - A_Moudle (0.0.1):
+    - A_Moudle/TargetA (= 0.0.1)
+    - B_Category
+  - A_Moudle/TargetA (0.0.1):
+    - B_Category
+  - B_Category (0.0.1):
+    - CTMediator
+  - CTMediator (13)
+
+DEPENDENCIES:
+  - A_Category (from `../LocalRepo/A_Category`)
+  - A_Moudle (from `../LocalRepo/A_Moudle`)
+  - B_Category (from `../LocalRepo/B_Category`)
+  - CTMediator
+
+EXTERNAL SOURCES:
+  A_Category:
+    :path: ../LocalRepo/A_Category
+  A_Moudle:
+    :path: ../LocalRepo/A_Moudle
+  B_Category:
+    :path: ../LocalRepo/B_Category
+
+SPEC CHECKSUMS:
+  A_Category: 86843daa68cc6e3fa57e966ff162d2fd5f3eab36
+  A_Moudle: ab34d6dd27b89446683fe37bec3461a18ec92db1
+  B_Category: 51e6f51c609ba03e0322fd5e2819079d13fdf48d
+  CTMediator: 4cbf8ede42efc6b31715be88b78bdc9d94efa840
+
+PODFILE CHECKSUM: 268c813bec1fad27a3d4ce9cdba8ce00ed5b597e
+
+COCOAPODS: 1.4.0
