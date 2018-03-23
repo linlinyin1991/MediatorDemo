@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/linlinyin1991/A_Moudle'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author             = { "yin linlin" => "linlin.yin@bkjk.com" }
+  s.author             = { "ElaineYin" => "linlinyin1991@163.com" }
   s.source       = { :git => "https://github.com/linlinyin1991/A_Moudle.git", :tag => "#{s.version}" }
   s.ios.deployment_target = '8.0'
   s.frameworks = 'UIKit'

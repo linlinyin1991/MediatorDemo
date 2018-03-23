@@ -2,7 +2,7 @@
 //  CTMediator+A.h
 //  A_Category
 //
-//  Created by yin linlin on 2018/3/23.
+//  Created by ElaineYin on 2018/3/23.
 //
 
 #import <CTMediator/CTMediator.h>

@@ -3,19 +3,19 @@ This application makes use of the following third party libraries:
 
 ## A_Category
 
-Copyright (c) 2018 linlinyin1991 <linlin.yin@bkjk.com>
+Copyright (c) 2018 ElaineYin <linlinyin1991@163.com>
 
 
 
 ## A_Moudle
 
-Copyright (c) 2018 linlinyin1991 <linlin.yin@bkjk.com>
+Copyright (c) 2018 ElaineYin <linlinyin1991@163.com>
 
 
 
 ## B_Category
 
-Copyright (c) 2018 linlinyin1991 <linlin.yin@bkjk.com>
+Copyright (c) 2018 ElaineYin <linlinyin1991@163.com>
 
 
 

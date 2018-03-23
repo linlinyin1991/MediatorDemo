@@ -2,7 +2,7 @@
 //  A_HomeViewController.m
 //  A_Moudle
 //
-//  Created by yin linlin on 2018/3/23.
+//  Created by ElaineYin on 2018/3/23.
 //
 
 #import "A_HomeViewController.h"
